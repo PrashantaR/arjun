@@ -1,0 +1,45 @@
+.m{
+    background-color:red;
+    display: inline-block;
+    font-size: 50px;
+    color: aqua;
+    
+}
+.m:hover{
+    font-size: 115px;
+    transition: .9s;}
+   
+.m1{
+    background-color:rgb(224, 205, 205);
+    display: inline-block;
+    font-size: 50px;
+    color: aqua;
+    
+}
+.m1:hover{
+    font-size: 100px;
+    transition: .9s;}
+   
+.m2{
+    background-color:rgb(217, 255, 0);
+    display: inline-block;
+    font-size: 50px;
+    color: rgb(27, 226, 226);
+    
+}
+.m2:hover{
+    font-size: 100px;
+    transition: .9s;}
+   
+.m3{
+    background-color:rgb(89, 0, 255);
+    display: inline-block;
+    font-size: 50px;
+    color: rgb(136, 255, 0);
+    
+}
+.m3:hover{
+    font-size: 100px;
+    transition: .9s;
+   
+}
